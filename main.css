@@ -5,18 +5,18 @@
 
 /* element selector */
 body{
-    background-color: #333333;
-    color: whitesmoke;
+    background-color: #dbcba1;
+    color: rgb(255, 255, 255);
 }
 
 nav {
-    background-color: black;
+    background-color: #dbcba1;
     padding: 10px;
     display: flex;
 }
 
 nav a{
-    color: pink;
+    color: rgb(92, 75, 29);
     text-decoration: none;
 }
 
@@ -34,7 +34,7 @@ nav li {
 /* messing with main */
 
 h1,h2,h3,h4,h5,h6{
-    color: #dbd053;
+    color: rgb(92, 75, 29);
 }
 
 main{
@@ -45,8 +45,8 @@ main{
 
 #main-articles {
     width: 70%;
-    background-color: #666666;
-    border: 1px solid black;
+    background-color: #ae9c69;
+    border: 2px solid black;
     border-radius: 20px;
     margin: 10px;
     padding: 20px;
@@ -73,7 +73,7 @@ main{
 
 
 #profile-pic{
-    width: 30%;
+    width: 75%;
     border: 3px solid whitesmoke;
     border-radius: 50%;
     margin-bottom: 10px;
